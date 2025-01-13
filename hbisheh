@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-# Import utilities. /../.
+# Import utilities. /.././
 source ./scripts/utils.sh
 
 # Common variables.
